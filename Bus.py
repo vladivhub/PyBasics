@@ -1,4 +1,4 @@
-passengers = float(input())
+passengers = int(input())
 stops = int(input())
 
 for i in range(1, stops + 1):
