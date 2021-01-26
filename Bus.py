@@ -1,6 +1,8 @@
 passengers = int(input())
 stops = int(input())
 
+# its done by slave
+
 for i in range(1, stops + 1):
     passengers_off = int(input())
     passengers_on = int(input())
